@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "162436727783",
+    "project_id": "hacathon-73383",
+    "storage_bucket": "hacathon-73383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162436727783:android:0afe86725d0e262a80b342",
+        "android_client_info": {
+          "package_name": "com.example.hacathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162436727783-imqk8skio0b40dlnnpprkhf4a2j09kun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYRI5WXFLmzNis9ptzHccKjwxkxlRtRyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162436727783-imqk8skio0b40dlnnpprkhf4a2j09kun.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162436727783-tgkrbk2q74qmsdt7gvvvodvcmfivcrlf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hacathon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
